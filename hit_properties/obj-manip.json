@@ -1,0 +1,11 @@
+{
+  "Title": "Manipulate Objects",
+  "Description": "Manipulate objects on the table as instructed.",
+  "Keywords": "game,objects",
+  "Reward": 0.05,
+  "AssignmentDurationInSeconds": 1200,
+  "FrameHeight": 0,
+  "MaxAssignments": 1,
+  "LifetimeInSeconds": 604800,
+  "AutoApprovalDelayInSeconds": 604800
+}
